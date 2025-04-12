@@ -1,4 +1,4 @@
 # created by virtualenv automatically
-.Scrips
-.Lib
-._pycache_
+.Scrips/
+.Lib/
+_pycache_
